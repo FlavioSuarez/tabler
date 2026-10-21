@@ -1,5 +1,12 @@
 # @tabler/core
 
+## 1.7.1
+
+### Patch Changes
+
+- 2bdbab3: Fixed dark mode contrast of `.text-muted` and other `muted` theme color utilities with a lighter `--tblr-muted` value.
+- 1745d1f: Fixed the `.flag` size classes, which were stretched to one height inside flex containers because the height came from `aspect-ratio`.
+
 ## 1.7.0
 
 ### Minor Changes

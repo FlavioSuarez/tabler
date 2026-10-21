@@ -1,5 +1,11 @@
 # @tabler/docs
 
+## 1.7.1
+
+### Patch Changes
+
+- 3cb2bf3: Added the `npx skills add tabler/tabler` install command for the Tabler agent skill to the Docs for LLMs page.
+
 ## 1.7.0
 
 ### Minor Changes
